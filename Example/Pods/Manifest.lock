@@ -1,0 +1,16 @@
+PODS:
+  - OJUtils (0.1.0)
+
+DEPENDENCIES:
+  - OJUtils (from `../`)
+
+EXTERNAL SOURCES:
+  OJUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OJUtils: 9cb95ba36b37a170b7ebc286bd92a3fa7445d289
+
+PODFILE CHECKSUM: 067b4f428a7360cedfdd0279f1b577559091670f
+
+COCOAPODS: 1.10.1
