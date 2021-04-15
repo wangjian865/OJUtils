@@ -1,5 +1,5 @@
 PODS:
-  - OJUtils (0.1.0)
+  - OJUtils (0.0.1)
 
 DEPENDENCIES:
   - OJUtils (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  OJUtils: 9cb95ba36b37a170b7ebc286bd92a3fa7445d289
+  OJUtils: cca891257a867d0bafe0795014592afeaa206f26
 
 PODFILE CHECKSUM: 067b4f428a7360cedfdd0279f1b577559091670f
 

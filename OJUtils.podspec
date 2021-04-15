@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'OJUtils'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'Speedy Dev'
 
 # This description is used to generate tags and improve search results.
@@ -20,12 +20,11 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 description here
                        DESC
-
-  s.homepage         = 'https://github.com/wangjian/OJUtils'
+  s.homepage         = 'https://github.com/wangjian865/OJUtils'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = 'wangjian'
-  s.source           = { :git => 'https://github.com/wangjian/OJUtils.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/wangjian865/OJUtils.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
